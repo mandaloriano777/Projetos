@@ -1,0 +1,13 @@
+C:\Users\souza\Downloads\C#\Solução_Projeto_PalavraAleatória\Projeto_PalavraAleatória\bin\Debug\netcoreapp2.1\Projeto_PalavraAleatória.deps.json
+C:\Users\souza\Downloads\C#\Solução_Projeto_PalavraAleatória\Projeto_PalavraAleatória\bin\Debug\netcoreapp2.1\Projeto_PalavraAleatória.runtimeconfig.json
+C:\Users\souza\Downloads\C#\Solução_Projeto_PalavraAleatória\Projeto_PalavraAleatória\bin\Debug\netcoreapp2.1\Projeto_PalavraAleatória.runtimeconfig.dev.json
+C:\Users\souza\Downloads\C#\Solução_Projeto_PalavraAleatória\Projeto_PalavraAleatória\bin\Debug\netcoreapp2.1\Projeto_PalavraAleatória.dll
+C:\Users\souza\Downloads\C#\Solução_Projeto_PalavraAleatória\Projeto_PalavraAleatória\bin\Debug\netcoreapp2.1\Projeto_PalavraAleatória.pdb
+C:\Users\souza\Downloads\C#\Solução_Projeto_PalavraAleatória\Projeto_PalavraAleatória\obj\Debug\netcoreapp2.1\Projeto_PalavraAleatória.csproj.AssemblyReference.cache
+C:\Users\souza\Downloads\C#\Solução_Projeto_PalavraAleatória\Projeto_PalavraAleatória\obj\Debug\netcoreapp2.1\Projeto_PalavraAleatória.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souza\Downloads\C#\Solução_Projeto_PalavraAleatória\Projeto_PalavraAleatória\obj\Debug\netcoreapp2.1\Projeto_PalavraAleatória.AssemblyInfoInputs.cache
+C:\Users\souza\Downloads\C#\Solução_Projeto_PalavraAleatória\Projeto_PalavraAleatória\obj\Debug\netcoreapp2.1\Projeto_PalavraAleatória.AssemblyInfo.cs
+C:\Users\souza\Downloads\C#\Solução_Projeto_PalavraAleatória\Projeto_PalavraAleatória\obj\Debug\netcoreapp2.1\Projeto_PalavraAleatória.csproj.CoreCompileInputs.cache
+C:\Users\souza\Downloads\C#\Solução_Projeto_PalavraAleatória\Projeto_PalavraAleatória\obj\Debug\netcoreapp2.1\Projeto_PalavraAleatória.dll
+C:\Users\souza\Downloads\C#\Solução_Projeto_PalavraAleatória\Projeto_PalavraAleatória\obj\Debug\netcoreapp2.1\Projeto_PalavraAleatória.pdb
+C:\Users\souza\Downloads\C#\Solução_Projeto_PalavraAleatória\Projeto_PalavraAleatória\obj\Debug\netcoreapp2.1\Projeto_PalavraAleatória.genruntimeconfig.cache

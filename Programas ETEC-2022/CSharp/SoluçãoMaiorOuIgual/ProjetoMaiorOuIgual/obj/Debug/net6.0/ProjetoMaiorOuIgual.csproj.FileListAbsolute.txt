@@ -1,0 +1,15 @@
+C:\Users\souza\Downloads\C#\SoluçãoMaiorOuIgual\ProjetoMaiorOuIgual\bin\Debug\net6.0\ProjetoMaiorOuIgual.exe
+C:\Users\souza\Downloads\C#\SoluçãoMaiorOuIgual\ProjetoMaiorOuIgual\bin\Debug\net6.0\ProjetoMaiorOuIgual.deps.json
+C:\Users\souza\Downloads\C#\SoluçãoMaiorOuIgual\ProjetoMaiorOuIgual\bin\Debug\net6.0\ProjetoMaiorOuIgual.runtimeconfig.json
+C:\Users\souza\Downloads\C#\SoluçãoMaiorOuIgual\ProjetoMaiorOuIgual\bin\Debug\net6.0\ProjetoMaiorOuIgual.dll
+C:\Users\souza\Downloads\C#\SoluçãoMaiorOuIgual\ProjetoMaiorOuIgual\bin\Debug\net6.0\ProjetoMaiorOuIgual.pdb
+C:\Users\souza\Downloads\C#\SoluçãoMaiorOuIgual\ProjetoMaiorOuIgual\obj\Debug\net6.0\ProjetoMaiorOuIgual.csproj.AssemblyReference.cache
+C:\Users\souza\Downloads\C#\SoluçãoMaiorOuIgual\ProjetoMaiorOuIgual\obj\Debug\net6.0\ProjetoMaiorOuIgual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souza\Downloads\C#\SoluçãoMaiorOuIgual\ProjetoMaiorOuIgual\obj\Debug\net6.0\ProjetoMaiorOuIgual.AssemblyInfoInputs.cache
+C:\Users\souza\Downloads\C#\SoluçãoMaiorOuIgual\ProjetoMaiorOuIgual\obj\Debug\net6.0\ProjetoMaiorOuIgual.AssemblyInfo.cs
+C:\Users\souza\Downloads\C#\SoluçãoMaiorOuIgual\ProjetoMaiorOuIgual\obj\Debug\net6.0\ProjetoMaiorOuIgual.csproj.CoreCompileInputs.cache
+C:\Users\souza\Downloads\C#\SoluçãoMaiorOuIgual\ProjetoMaiorOuIgual\obj\Debug\net6.0\ProjetoMaiorOuIgual.dll
+C:\Users\souza\Downloads\C#\SoluçãoMaiorOuIgual\ProjetoMaiorOuIgual\obj\Debug\net6.0\refint\ProjetoMaiorOuIgual.dll
+C:\Users\souza\Downloads\C#\SoluçãoMaiorOuIgual\ProjetoMaiorOuIgual\obj\Debug\net6.0\ProjetoMaiorOuIgual.pdb
+C:\Users\souza\Downloads\C#\SoluçãoMaiorOuIgual\ProjetoMaiorOuIgual\obj\Debug\net6.0\ProjetoMaiorOuIgual.genruntimeconfig.cache
+C:\Users\souza\Downloads\C#\SoluçãoMaiorOuIgual\ProjetoMaiorOuIgual\obj\Debug\net6.0\ref\ProjetoMaiorOuIgual.dll

@@ -1,0 +1,15 @@
+C:\Users\souza\Downloads\C#\Solução_Projeto_janela\Projeto_janela\bin\Debug\net6.0\Projeto_janela.exe
+C:\Users\souza\Downloads\C#\Solução_Projeto_janela\Projeto_janela\bin\Debug\net6.0\Projeto_janela.deps.json
+C:\Users\souza\Downloads\C#\Solução_Projeto_janela\Projeto_janela\bin\Debug\net6.0\Projeto_janela.runtimeconfig.json
+C:\Users\souza\Downloads\C#\Solução_Projeto_janela\Projeto_janela\bin\Debug\net6.0\Projeto_janela.dll
+C:\Users\souza\Downloads\C#\Solução_Projeto_janela\Projeto_janela\bin\Debug\net6.0\Projeto_janela.pdb
+C:\Users\souza\Downloads\C#\Solução_Projeto_janela\Projeto_janela\obj\Debug\net6.0\Projeto_janela.csproj.AssemblyReference.cache
+C:\Users\souza\Downloads\C#\Solução_Projeto_janela\Projeto_janela\obj\Debug\net6.0\Projeto_janela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souza\Downloads\C#\Solução_Projeto_janela\Projeto_janela\obj\Debug\net6.0\Projeto_janela.AssemblyInfoInputs.cache
+C:\Users\souza\Downloads\C#\Solução_Projeto_janela\Projeto_janela\obj\Debug\net6.0\Projeto_janela.AssemblyInfo.cs
+C:\Users\souza\Downloads\C#\Solução_Projeto_janela\Projeto_janela\obj\Debug\net6.0\Projeto_janela.csproj.CoreCompileInputs.cache
+C:\Users\souza\Downloads\C#\Solução_Projeto_janela\Projeto_janela\obj\Debug\net6.0\Projeto_janela.dll
+C:\Users\souza\Downloads\C#\Solução_Projeto_janela\Projeto_janela\obj\Debug\net6.0\refint\Projeto_janela.dll
+C:\Users\souza\Downloads\C#\Solução_Projeto_janela\Projeto_janela\obj\Debug\net6.0\Projeto_janela.pdb
+C:\Users\souza\Downloads\C#\Solução_Projeto_janela\Projeto_janela\obj\Debug\net6.0\Projeto_janela.genruntimeconfig.cache
+C:\Users\souza\Downloads\C#\Solução_Projeto_janela\Projeto_janela\obj\Debug\net6.0\ref\Projeto_janela.dll

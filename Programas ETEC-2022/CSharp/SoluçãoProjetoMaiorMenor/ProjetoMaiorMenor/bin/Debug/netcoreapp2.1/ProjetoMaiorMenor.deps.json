@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "ProjetoMaiorMenor/1.0.0": {
+        "runtime": {
+          "ProjetoMaiorMenor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjetoMaiorMenor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

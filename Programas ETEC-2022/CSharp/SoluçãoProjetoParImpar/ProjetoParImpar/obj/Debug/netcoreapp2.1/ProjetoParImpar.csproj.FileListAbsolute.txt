@@ -1,0 +1,13 @@
+C:\Users\souza\Downloads\C#\SoluçãoProjetoParImpar\ProjetoParImpar\bin\Debug\netcoreapp2.1\ProjetoParImpar.deps.json
+C:\Users\souza\Downloads\C#\SoluçãoProjetoParImpar\ProjetoParImpar\bin\Debug\netcoreapp2.1\ProjetoParImpar.runtimeconfig.json
+C:\Users\souza\Downloads\C#\SoluçãoProjetoParImpar\ProjetoParImpar\bin\Debug\netcoreapp2.1\ProjetoParImpar.runtimeconfig.dev.json
+C:\Users\souza\Downloads\C#\SoluçãoProjetoParImpar\ProjetoParImpar\bin\Debug\netcoreapp2.1\ProjetoParImpar.dll
+C:\Users\souza\Downloads\C#\SoluçãoProjetoParImpar\ProjetoParImpar\bin\Debug\netcoreapp2.1\ProjetoParImpar.pdb
+C:\Users\souza\Downloads\C#\SoluçãoProjetoParImpar\ProjetoParImpar\obj\Debug\netcoreapp2.1\ProjetoParImpar.csproj.AssemblyReference.cache
+C:\Users\souza\Downloads\C#\SoluçãoProjetoParImpar\ProjetoParImpar\obj\Debug\netcoreapp2.1\ProjetoParImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souza\Downloads\C#\SoluçãoProjetoParImpar\ProjetoParImpar\obj\Debug\netcoreapp2.1\ProjetoParImpar.AssemblyInfoInputs.cache
+C:\Users\souza\Downloads\C#\SoluçãoProjetoParImpar\ProjetoParImpar\obj\Debug\netcoreapp2.1\ProjetoParImpar.AssemblyInfo.cs
+C:\Users\souza\Downloads\C#\SoluçãoProjetoParImpar\ProjetoParImpar\obj\Debug\netcoreapp2.1\ProjetoParImpar.csproj.CoreCompileInputs.cache
+C:\Users\souza\Downloads\C#\SoluçãoProjetoParImpar\ProjetoParImpar\obj\Debug\netcoreapp2.1\ProjetoParImpar.dll
+C:\Users\souza\Downloads\C#\SoluçãoProjetoParImpar\ProjetoParImpar\obj\Debug\netcoreapp2.1\ProjetoParImpar.pdb
+C:\Users\souza\Downloads\C#\SoluçãoProjetoParImpar\ProjetoParImpar\obj\Debug\netcoreapp2.1\ProjetoParImpar.genruntimeconfig.cache

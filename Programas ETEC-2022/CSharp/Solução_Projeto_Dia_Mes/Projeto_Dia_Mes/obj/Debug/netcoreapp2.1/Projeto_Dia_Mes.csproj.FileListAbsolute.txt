@@ -1,0 +1,13 @@
+C:\Users\souza\Downloads\C#\Solução_Projeto_Dia_Mes\Projeto_Dia_Mes\bin\Debug\netcoreapp2.1\Projeto_Dia_Mes.deps.json
+C:\Users\souza\Downloads\C#\Solução_Projeto_Dia_Mes\Projeto_Dia_Mes\bin\Debug\netcoreapp2.1\Projeto_Dia_Mes.runtimeconfig.json
+C:\Users\souza\Downloads\C#\Solução_Projeto_Dia_Mes\Projeto_Dia_Mes\bin\Debug\netcoreapp2.1\Projeto_Dia_Mes.runtimeconfig.dev.json
+C:\Users\souza\Downloads\C#\Solução_Projeto_Dia_Mes\Projeto_Dia_Mes\bin\Debug\netcoreapp2.1\Projeto_Dia_Mes.dll
+C:\Users\souza\Downloads\C#\Solução_Projeto_Dia_Mes\Projeto_Dia_Mes\bin\Debug\netcoreapp2.1\Projeto_Dia_Mes.pdb
+C:\Users\souza\Downloads\C#\Solução_Projeto_Dia_Mes\Projeto_Dia_Mes\obj\Debug\netcoreapp2.1\Projeto_Dia_Mes.csproj.AssemblyReference.cache
+C:\Users\souza\Downloads\C#\Solução_Projeto_Dia_Mes\Projeto_Dia_Mes\obj\Debug\netcoreapp2.1\Projeto_Dia_Mes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souza\Downloads\C#\Solução_Projeto_Dia_Mes\Projeto_Dia_Mes\obj\Debug\netcoreapp2.1\Projeto_Dia_Mes.AssemblyInfoInputs.cache
+C:\Users\souza\Downloads\C#\Solução_Projeto_Dia_Mes\Projeto_Dia_Mes\obj\Debug\netcoreapp2.1\Projeto_Dia_Mes.AssemblyInfo.cs
+C:\Users\souza\Downloads\C#\Solução_Projeto_Dia_Mes\Projeto_Dia_Mes\obj\Debug\netcoreapp2.1\Projeto_Dia_Mes.csproj.CoreCompileInputs.cache
+C:\Users\souza\Downloads\C#\Solução_Projeto_Dia_Mes\Projeto_Dia_Mes\obj\Debug\netcoreapp2.1\Projeto_Dia_Mes.dll
+C:\Users\souza\Downloads\C#\Solução_Projeto_Dia_Mes\Projeto_Dia_Mes\obj\Debug\netcoreapp2.1\Projeto_Dia_Mes.pdb
+C:\Users\souza\Downloads\C#\Solução_Projeto_Dia_Mes\Projeto_Dia_Mes\obj\Debug\netcoreapp2.1\Projeto_Dia_Mes.genruntimeconfig.cache

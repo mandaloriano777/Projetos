@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Projeto_Sorteio_De_Números/1.0.0": {
+        "runtime": {
+          "Projeto_Sorteio_De_Números.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto_Sorteio_De_Números/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

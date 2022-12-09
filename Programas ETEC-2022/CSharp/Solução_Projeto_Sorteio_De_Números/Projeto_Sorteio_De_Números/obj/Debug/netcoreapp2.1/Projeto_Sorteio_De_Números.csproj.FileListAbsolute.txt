@@ -1,0 +1,13 @@
+C:\Users\souza\Downloads\C#\Solução_Projeto_Sorteio_De_Números\Projeto_Sorteio_De_Números\bin\Debug\netcoreapp2.1\Projeto_Sorteio_De_Números.deps.json
+C:\Users\souza\Downloads\C#\Solução_Projeto_Sorteio_De_Números\Projeto_Sorteio_De_Números\bin\Debug\netcoreapp2.1\Projeto_Sorteio_De_Números.runtimeconfig.json
+C:\Users\souza\Downloads\C#\Solução_Projeto_Sorteio_De_Números\Projeto_Sorteio_De_Números\bin\Debug\netcoreapp2.1\Projeto_Sorteio_De_Números.runtimeconfig.dev.json
+C:\Users\souza\Downloads\C#\Solução_Projeto_Sorteio_De_Números\Projeto_Sorteio_De_Números\bin\Debug\netcoreapp2.1\Projeto_Sorteio_De_Números.dll
+C:\Users\souza\Downloads\C#\Solução_Projeto_Sorteio_De_Números\Projeto_Sorteio_De_Números\bin\Debug\netcoreapp2.1\Projeto_Sorteio_De_Números.pdb
+C:\Users\souza\Downloads\C#\Solução_Projeto_Sorteio_De_Números\Projeto_Sorteio_De_Números\obj\Debug\netcoreapp2.1\Projeto_Sorteio_De_Números.csproj.AssemblyReference.cache
+C:\Users\souza\Downloads\C#\Solução_Projeto_Sorteio_De_Números\Projeto_Sorteio_De_Números\obj\Debug\netcoreapp2.1\Projeto_Sorteio_De_Números.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souza\Downloads\C#\Solução_Projeto_Sorteio_De_Números\Projeto_Sorteio_De_Números\obj\Debug\netcoreapp2.1\Projeto_Sorteio_De_Números.AssemblyInfoInputs.cache
+C:\Users\souza\Downloads\C#\Solução_Projeto_Sorteio_De_Números\Projeto_Sorteio_De_Números\obj\Debug\netcoreapp2.1\Projeto_Sorteio_De_Números.AssemblyInfo.cs
+C:\Users\souza\Downloads\C#\Solução_Projeto_Sorteio_De_Números\Projeto_Sorteio_De_Números\obj\Debug\netcoreapp2.1\Projeto_Sorteio_De_Números.csproj.CoreCompileInputs.cache
+C:\Users\souza\Downloads\C#\Solução_Projeto_Sorteio_De_Números\Projeto_Sorteio_De_Números\obj\Debug\netcoreapp2.1\Projeto_Sorteio_De_Números.dll
+C:\Users\souza\Downloads\C#\Solução_Projeto_Sorteio_De_Números\Projeto_Sorteio_De_Números\obj\Debug\netcoreapp2.1\Projeto_Sorteio_De_Números.pdb
+C:\Users\souza\Downloads\C#\Solução_Projeto_Sorteio_De_Números\Projeto_Sorteio_De_Números\obj\Debug\netcoreapp2.1\Projeto_Sorteio_De_Números.genruntimeconfig.cache

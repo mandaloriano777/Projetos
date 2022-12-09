@@ -1,0 +1,10 @@
+C:\Users\220339\Downloads\C#\Solução_Projeto_Tabuada\Projeto_Tabuada\bin\Debug\netcoreapp2.1\Projeto_Tabuada.deps.json
+C:\Users\220339\Downloads\C#\Solução_Projeto_Tabuada\Projeto_Tabuada\bin\Debug\netcoreapp2.1\Projeto_Tabuada.runtimeconfig.json
+C:\Users\220339\Downloads\C#\Solução_Projeto_Tabuada\Projeto_Tabuada\bin\Debug\netcoreapp2.1\Projeto_Tabuada.runtimeconfig.dev.json
+C:\Users\220339\Downloads\C#\Solução_Projeto_Tabuada\Projeto_Tabuada\bin\Debug\netcoreapp2.1\Projeto_Tabuada.dll
+C:\Users\220339\Downloads\C#\Solução_Projeto_Tabuada\Projeto_Tabuada\bin\Debug\netcoreapp2.1\Projeto_Tabuada.pdb
+C:\Users\220339\Downloads\C#\Solução_Projeto_Tabuada\Projeto_Tabuada\obj\Debug\netcoreapp2.1\Projeto_Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\220339\Downloads\C#\Solução_Projeto_Tabuada\Projeto_Tabuada\obj\Debug\netcoreapp2.1\Projeto_Tabuada.AssemblyInfoInputs.cache
+C:\Users\220339\Downloads\C#\Solução_Projeto_Tabuada\Projeto_Tabuada\obj\Debug\netcoreapp2.1\Projeto_Tabuada.AssemblyInfo.cs
+C:\Users\220339\Downloads\C#\Solução_Projeto_Tabuada\Projeto_Tabuada\obj\Debug\netcoreapp2.1\Projeto_Tabuada.dll
+C:\Users\220339\Downloads\C#\Solução_Projeto_Tabuada\Projeto_Tabuada\obj\Debug\netcoreapp2.1\Projeto_Tabuada.pdb

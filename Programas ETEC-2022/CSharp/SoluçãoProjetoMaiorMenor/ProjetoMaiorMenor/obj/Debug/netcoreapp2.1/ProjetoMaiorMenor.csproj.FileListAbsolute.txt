@@ -1,0 +1,13 @@
+C:\Users\souza\Downloads\C#\SoluçãoProjetoMaiorMenor\ProjetoMaiorMenor\bin\Debug\netcoreapp2.1\ProjetoMaiorMenor.deps.json
+C:\Users\souza\Downloads\C#\SoluçãoProjetoMaiorMenor\ProjetoMaiorMenor\bin\Debug\netcoreapp2.1\ProjetoMaiorMenor.runtimeconfig.json
+C:\Users\souza\Downloads\C#\SoluçãoProjetoMaiorMenor\ProjetoMaiorMenor\bin\Debug\netcoreapp2.1\ProjetoMaiorMenor.runtimeconfig.dev.json
+C:\Users\souza\Downloads\C#\SoluçãoProjetoMaiorMenor\ProjetoMaiorMenor\bin\Debug\netcoreapp2.1\ProjetoMaiorMenor.dll
+C:\Users\souza\Downloads\C#\SoluçãoProjetoMaiorMenor\ProjetoMaiorMenor\bin\Debug\netcoreapp2.1\ProjetoMaiorMenor.pdb
+C:\Users\souza\Downloads\C#\SoluçãoProjetoMaiorMenor\ProjetoMaiorMenor\obj\Debug\netcoreapp2.1\ProjetoMaiorMenor.csproj.AssemblyReference.cache
+C:\Users\souza\Downloads\C#\SoluçãoProjetoMaiorMenor\ProjetoMaiorMenor\obj\Debug\netcoreapp2.1\ProjetoMaiorMenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souza\Downloads\C#\SoluçãoProjetoMaiorMenor\ProjetoMaiorMenor\obj\Debug\netcoreapp2.1\ProjetoMaiorMenor.AssemblyInfoInputs.cache
+C:\Users\souza\Downloads\C#\SoluçãoProjetoMaiorMenor\ProjetoMaiorMenor\obj\Debug\netcoreapp2.1\ProjetoMaiorMenor.AssemblyInfo.cs
+C:\Users\souza\Downloads\C#\SoluçãoProjetoMaiorMenor\ProjetoMaiorMenor\obj\Debug\netcoreapp2.1\ProjetoMaiorMenor.csproj.CoreCompileInputs.cache
+C:\Users\souza\Downloads\C#\SoluçãoProjetoMaiorMenor\ProjetoMaiorMenor\obj\Debug\netcoreapp2.1\ProjetoMaiorMenor.dll
+C:\Users\souza\Downloads\C#\SoluçãoProjetoMaiorMenor\ProjetoMaiorMenor\obj\Debug\netcoreapp2.1\ProjetoMaiorMenor.pdb
+C:\Users\souza\Downloads\C#\SoluçãoProjetoMaiorMenor\ProjetoMaiorMenor\obj\Debug\netcoreapp2.1\ProjetoMaiorMenor.genruntimeconfig.cache

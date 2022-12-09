@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoBartolomeu2_Menu", "ProjetoBartolomeu2_Menu\ProjetoBartolomeu2_Menu.csproj", "{F69BD1CC-F7F8-4263-AC07-4AF7203AA3FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F69BD1CC-F7F8-4263-AC07-4AF7203AA3FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F69BD1CC-F7F8-4263-AC07-4AF7203AA3FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F69BD1CC-F7F8-4263-AC07-4AF7203AA3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F69BD1CC-F7F8-4263-AC07-4AF7203AA3FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {193A7EE1-E3C0-4FC0-A360-9647FFC1A722}
+	EndGlobalSection
+EndGlobal
