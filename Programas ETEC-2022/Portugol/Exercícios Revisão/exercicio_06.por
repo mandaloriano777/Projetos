@@ -1,23 +1,26 @@
 programa
 {
+	inclua biblioteca Util --> U
 	
 	funcao inicio()
 	{
+		inteiro cont = 10
 
-		real num1, num2, soma 
-		
-		escreva("\nSoma dois números \n")
+		escreva("\nVou de 10 a 1.\n\n")
 
-		escreva("\nDigite o 1º numéro : ")
-		leia(num1)
-
-		escreva("\nDigite o 2º numero ; ")
-		leia(num2)
-
-		soma = num1 + num2
-		
-		escreva("\nA soma dos numeros digitado é : ",soma,"\n")
-		
+		para(cont = 10; cont >=1; cont--)
+		{
+			se(cont != 1)
+			{
+				escreva(cont + ",")
+			}
+			U.aguarde(500)
+			
+			se(cont == 1)
+			{
+				escreva(cont + ".")
+			}
+		}
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -25,7 +28,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 100; 
+ * @POSICAO-CURSOR = 273; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
