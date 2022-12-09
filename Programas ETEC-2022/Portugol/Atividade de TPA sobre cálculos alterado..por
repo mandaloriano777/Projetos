@@ -16,6 +16,7 @@ programa
 
 		//Introdução do programa.
 		escreva(" *** Vou falar para você o resultado de dois algarismos,efetuando as 4 operações básicas *** ")
+		escreva("Essa alteração vai aparecer no GitHub")
 
 		//Nessa lacuna o usuário deve digitar o 1° valor desejado. 	
 		escreva("\n\nInforme o 1° número: ")
@@ -66,7 +67,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 728; 
+ * @POSICAO-CURSOR = 414; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
